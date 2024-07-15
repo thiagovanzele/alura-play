@@ -13,6 +13,16 @@
     display: none;
 }
 
+/* SUPERIOR SEÇÃO */
+
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 5px;
+
+}
 
 /* RODAPE */
 
